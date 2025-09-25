@@ -26,6 +26,7 @@ This repository contains the core code used in McFall et al. (2025), Nature Comm
 ## Licence
 ATP-DEC: Air Travel Passenger Dynamic Emissions Calculator
 Copyright (C) 2025 Therme Group UK
+
 SPDX-License-Identifier: AGPL-3.0-only
 
 This program is free software: you can redistribute it and/or modify
